@@ -10,7 +10,7 @@ I combine my major in CL with a minor in Musicology.
     a French music theorist from the 18th century. It was unfortunatelly never good enough to have saved me time, but I am working on it, you can see my attemt
     in the repo called "figuredBass"
     I have also implemented it in a website, to be able to share it with fellow students of musicology, who not all have experience in running python programs from the
-    command line. You can check it out <a href="http://digital-musicology.herokuapp.com/dandrieu/>here</a>
+    command line. You can check it out <a href="http://digital-musicology.herokuapp.com/dandrieu/">here</a>
   </li>
   <li>
     With two friends I currently have a project of creating a game based on chatbots that use gpt-3. The idea is that you are organizing a party and have to talk to
